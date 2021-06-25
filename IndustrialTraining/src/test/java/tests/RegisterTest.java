@@ -97,4 +97,18 @@ public class RegisterTest extends TestBase
 		log.info("verifying get All Country Options Of Register Page");
 		Assert.assertTrue(rp.getAllCountryOptions());
 	}
+	
+	@Test (priority=11)
+	public void verifySkillsOption() throws Exception
+	{
+		log.info("verifying Skills Option Of Register Page");
+		Assert.assertTrue(rp.verifySkills());
+	}
+	
+	@Test (priority=12)
+	public void verifyGetAllSkillsOptions() throws Exception
+	{
+		log.info("verifying get All Skills Options Of Register Page");
+		Assert.assertTrue(rp.getAllSkillsOptions());
+	}
 }

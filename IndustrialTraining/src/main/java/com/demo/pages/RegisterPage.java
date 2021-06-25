@@ -256,4 +256,57 @@ public class RegisterPage extends RegisterPageObjRepo
 			return false;
 		}
 	}
+	
+	//11
+	public boolean verifySkills() throws Exception
+	{
+		String TextBeforeSelectingCountry = countries.getAttribute("class");
+		log.info(TextBeforeSelectingCountry);
+		Thread.sleep(2000);
+		
+		SelectUtility.selectProductByText(skills, "India");
+		Thread.sleep(2000);
+		
+		String actText = countries.getAttribute("class");
+		log.info(actText);
+		
+		String expText = "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required";
+		log.info(expText);
+		
+		if(actText.equals(expText))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	
+	//12
+	public boolean getAllSkillsOptions() throws Exception
+	{
+		ArrayList<String> selectCountryOptions = SelectUtility.getOptions(skills);
+		Thread.sleep(3000);
+		
+		for(String Country : selectCountryOptions)
+		{
+			log.info(Country);
+		}
+		
+		int actNoOfOptions = selectCountryOptions.size();
+		log.info(actNoOfOptions);
+		
+		int expNoOfOptions = 251 ;
+		log.info(expNoOfOptions);
+		
+		if(actNoOfOptions == expNoOfOptions)
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
 }
