@@ -1,0 +1,870 @@
+2021-06-24 21:59:59,091  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:00:01,237  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:00:08,789  INFO [main] TestBase:69 - verifying Languages option Of Register Page
+2021-06-24 22:00:08,996  INFO [main] TestBase:143 - Arabic
+2021-06-24 22:00:09,241  INFO [main] TestBase:143 - Bulgarian
+2021-06-24 22:00:09,483  INFO [main] TestBase:143 - Catalan
+2021-06-24 22:00:09,707  INFO [main] TestBase:143 - Croatian
+2021-06-24 22:00:09,938  INFO [main] TestBase:143 - Czech
+2021-06-24 22:00:10,177  INFO [main] TestBase:143 - Danish
+2021-06-24 22:00:10,411  INFO [main] TestBase:143 - Dutch
+2021-06-24 22:00:10,643  INFO [main] TestBase:143 - English
+2021-06-24 22:00:10,869  INFO [main] TestBase:143 - Estonian
+2021-06-24 22:00:11,096  INFO [main] TestBase:143 - Filipino
+2021-06-24 22:00:11,324  INFO [main] TestBase:143 - Finnish
+2021-06-24 22:00:11,545  INFO [main] TestBase:143 - French
+2021-06-24 22:00:11,776  INFO [main] TestBase:143 - German
+2021-06-24 22:00:12,010  INFO [main] TestBase:143 - Greek
+2021-06-24 22:00:12,237  INFO [main] TestBase:143 - Hebrew
+2021-06-24 22:00:12,454  INFO [main] TestBase:143 - Hindi
+2021-06-24 22:00:12,684  INFO [main] TestBase:143 - Hungarian
+2021-06-24 22:00:12,905  INFO [main] TestBase:143 - Icelandic
+2021-06-24 22:00:13,129  INFO [main] TestBase:143 - Indonesian
+2021-06-24 22:00:13,359  INFO [main] TestBase:143 - Italian
+2021-06-24 22:00:13,588  INFO [main] TestBase:143 - Japanese
+2021-06-24 22:00:13,813  INFO [main] TestBase:143 - Korean
+2021-06-24 22:00:14,034  INFO [main] TestBase:143 - Latvian
+2021-06-24 22:00:14,264  INFO [main] TestBase:143 - Lithuanian
+2021-06-24 22:00:14,480  INFO [main] TestBase:143 - Malay
+2021-06-24 22:00:14,710  INFO [main] TestBase:143 - Norwegian
+2021-06-24 22:00:14,941  INFO [main] TestBase:143 - Persian
+2021-06-24 22:00:15,166  INFO [main] TestBase:143 - Polish
+2021-06-24 22:00:15,393  INFO [main] TestBase:143 - Portuguese
+2021-06-24 22:00:15,617  INFO [main] TestBase:143 - Romanian
+2021-06-24 22:00:15,842  INFO [main] TestBase:143 - Russian
+2021-06-24 22:00:16,069  INFO [main] TestBase:143 - Serbian
+2021-06-24 22:00:16,308  INFO [main] TestBase:143 - Slovak
+2021-06-24 22:00:16,546  INFO [main] TestBase:143 - Slovenian
+2021-06-24 22:00:16,775  INFO [main] TestBase:143 - Spanish
+2021-06-24 22:00:16,998  INFO [main] TestBase:143 - Swedish
+2021-06-24 22:00:17,223  INFO [main] TestBase:143 - Thai
+2021-06-24 22:00:17,447  INFO [main] TestBase:143 - Turkish
+2021-06-24 22:00:17,682  INFO [main] TestBase:143 - Ukrainian
+2021-06-24 22:00:17,906  INFO [main] TestBase:143 - Urdu
+2021-06-24 22:00:18,139  INFO [main] TestBase:143 - Vietnamese
+2021-06-24 22:00:18,345  INFO [main] TestBase:148 - Total no of actual Languages = 41
+2021-06-24 22:01:29,371  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:01:31,211  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:01:36,874  INFO [main] TestBase:69 - verifying Languages option Of Register Page
+2021-06-24 22:01:59,133  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:02:01,031  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:02:08,504  INFO [main] TestBase:69 - verifying Languages option Of Register Page
+2021-06-24 22:02:28,695  INFO [main] TestBase:148 - Total no of actual Languages = 0
+2021-06-24 22:02:41,179  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:02:43,053  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:02:51,515  INFO [main] TestBase:34 - verifying the Radio Button Of Register Page
+2021-06-24 22:02:54,647  INFO [main] TestBase:34 - ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-24 22:02:54,712  INFO [main] TestBase:37 - ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-24 22:02:58,860  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:03:00,125  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:03:08,364  INFO [main] TestBase:41 - verifying the Single Check Box Of Register Page
+2021-06-24 22:03:15,599  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:03:16,844  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:03:24,666  INFO [main] TestBase:48 - verifying the Multiple Check Box Of Register Page
+2021-06-24 22:03:37,223  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:03:38,487  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:03:44,120  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:03:50,530  INFO [main] TestBase:79 - India
+2021-06-24 22:03:50,530  INFO [main] TestBase:82 - India
+2021-06-24 22:03:50,532  INFO [main] TestBase:85 - false
+2021-06-24 22:03:50,556  INFO [main] TestBase:88 - false
+2021-06-24 22:03:54,694  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:03:55,962  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:04:01,521  INFO [main] TestBase:62 - verifying Languages option Of Register Page
+2021-06-24 22:04:07,866  INFO [main] TestBase:116 - [Hindi, English]
+2021-06-24 22:04:07,866  INFO [main] TestBase:121 - [Hindi, English]
+2021-06-24 22:04:07,977  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:04:09,235  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:04:20,491  INFO [main] TestBase:69 - verifying Languages option Of Register Page
+2021-06-24 22:04:40,604  INFO [main] TestBase:148 - Total no of actual Languages = 0
+2021-06-24 22:05:05,593  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:05:07,452  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:05:15,048  INFO [main] TestBase:69 - verifying Languages option Of Register Page
+2021-06-24 22:05:15,233  INFO [main] TestBase:143 - Arabic
+2021-06-24 22:05:15,469  INFO [main] TestBase:143 - Bulgarian
+2021-06-24 22:05:15,699  INFO [main] TestBase:143 - Catalan
+2021-06-24 22:05:15,934  INFO [main] TestBase:143 - Croatian
+2021-06-24 22:05:16,164  INFO [main] TestBase:143 - Czech
+2021-06-24 22:05:16,403  INFO [main] TestBase:143 - Danish
+2021-06-24 22:05:16,639  INFO [main] TestBase:143 - Dutch
+2021-06-24 22:05:16,870  INFO [main] TestBase:143 - English
+2021-06-24 22:05:17,117  INFO [main] TestBase:143 - Estonian
+2021-06-24 22:05:17,353  INFO [main] TestBase:143 - Filipino
+2021-06-24 22:05:17,590  INFO [main] TestBase:143 - Finnish
+2021-06-24 22:05:17,828  INFO [main] TestBase:143 - French
+2021-06-24 22:05:18,065  INFO [main] TestBase:143 - German
+2021-06-24 22:05:18,293  INFO [main] TestBase:143 - Greek
+2021-06-24 22:05:18,524  INFO [main] TestBase:143 - Hebrew
+2021-06-24 22:05:18,757  INFO [main] TestBase:143 - Hindi
+2021-06-24 22:05:18,993  INFO [main] TestBase:143 - Hungarian
+2021-06-24 22:05:19,233  INFO [main] TestBase:143 - Icelandic
+2021-06-24 22:05:19,455  INFO [main] TestBase:143 - Indonesian
+2021-06-24 22:05:19,699  INFO [main] TestBase:143 - Italian
+2021-06-24 22:05:19,926  INFO [main] TestBase:143 - Japanese
+2021-06-24 22:05:20,156  INFO [main] TestBase:143 - Korean
+2021-06-24 22:05:20,389  INFO [main] TestBase:143 - Latvian
+2021-06-24 22:05:20,618  INFO [main] TestBase:143 - Lithuanian
+2021-06-24 22:05:20,863  INFO [main] TestBase:143 - Malay
+2021-06-24 22:05:21,098  INFO [main] TestBase:143 - Norwegian
+2021-06-24 22:05:21,325  INFO [main] TestBase:143 - Persian
+2021-06-24 22:05:21,556  INFO [main] TestBase:143 - Polish
+2021-06-24 22:05:21,794  INFO [main] TestBase:143 - Portuguese
+2021-06-24 22:05:22,022  INFO [main] TestBase:143 - Romanian
+2021-06-24 22:05:22,252  INFO [main] TestBase:143 - Russian
+2021-06-24 22:05:22,482  INFO [main] TestBase:143 - Serbian
+2021-06-24 22:05:22,710  INFO [main] TestBase:143 - Slovak
+2021-06-24 22:05:22,945  INFO [main] TestBase:143 - Slovenian
+2021-06-24 22:05:23,175  INFO [main] TestBase:143 - Spanish
+2021-06-24 22:05:23,410  INFO [main] TestBase:143 - Swedish
+2021-06-24 22:05:23,641  INFO [main] TestBase:143 - Thai
+2021-06-24 22:05:23,866  INFO [main] TestBase:143 - Turkish
+2021-06-24 22:05:24,103  INFO [main] TestBase:143 - Ukrainian
+2021-06-24 22:05:24,327  INFO [main] TestBase:143 - Urdu
+2021-06-24 22:05:24,569  INFO [main] TestBase:143 - Vietnamese
+2021-06-24 22:05:24,779  INFO [main] TestBase:148 - Total no of actual Languages = 41
+2021-06-24 22:13:54,265  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:13:56,092  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:14:02,342  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:14:28,112  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:14:29,986  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:14:36,980  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:14:47,895  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:14:49,714  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:14:56,657  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:17:10,521  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:17:12,334  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:17:18,652  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:19:00,582  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:19:02,457  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:19:09,425  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:20:07,418  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:20:09,235  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:20:17,744  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:20:38,002  INFO [main] TestBase:79 - [, Australia, Bangladesh, Denmark, Hong Kong, India, Japan, Netherlands, New Zealand, South Africa, United States of America]
+2021-06-24 22:21:27,922  INFO [main] TestBase:33 - Opening the browser
+2021-06-24 22:21:29,764  INFO [main] TestBase:38 - Inserting the Url
+2021-06-24 22:21:37,150  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-24 22:21:57,479  INFO [main] TestBase:80 - [, Australia, Bangladesh, Denmark, Hong Kong, India, Japan, Netherlands, New Zealand, South Africa, United States of America]
+2021-06-25 07:33:19,827  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:33:22,278  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:33:29,234  INFO [main] TestBase:76 - verifying Select Country option Of Register Page
+2021-06-25 07:33:32,624  INFO [main] TestBase:171 - India
+2021-06-25 07:33:32,624  INFO [main] TestBase:174 - India
+2021-06-25 07:33:40,831  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:33:43,162  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:33:51,168  INFO [main] TestBase:83 - verifying Get All Select Country Options Of Register Page
+2021-06-25 07:33:51,569  INFO [main] TestBase:190 - [, Australia, Bangladesh, Denmark, Hong Kong, India, Japan, Netherlands, New Zealand, South Africa, United States of America]
+2021-06-25 07:33:51,569  INFO [main] TestBase:192 - 11
+2021-06-25 07:35:29,779  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:35:32,121  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:35:38,765  INFO [main] TestBase:83 - verifying Get All Select Country Options Of Register Page
+2021-06-25 07:35:39,317  INFO [main] TestBase:190 - [, Australia, Bangladesh, Denmark, Hong Kong, India, Japan, Netherlands, New Zealand, South Africa, United States of America]
+2021-06-25 07:35:39,317  INFO [main] TestBase:194 - 
+2021-06-25 07:35:39,317  INFO [main] TestBase:194 - Australia
+2021-06-25 07:35:39,321  INFO [main] TestBase:194 - Bangladesh
+2021-06-25 07:35:39,321  INFO [main] TestBase:194 - Denmark
+2021-06-25 07:35:39,322  INFO [main] TestBase:194 - Hong Kong
+2021-06-25 07:35:39,322  INFO [main] TestBase:194 - India
+2021-06-25 07:35:39,323  INFO [main] TestBase:194 - Japan
+2021-06-25 07:35:39,323  INFO [main] TestBase:194 - Netherlands
+2021-06-25 07:35:39,323  INFO [main] TestBase:194 - New Zealand
+2021-06-25 07:35:39,323  INFO [main] TestBase:194 - South Africa
+2021-06-25 07:35:39,323  INFO [main] TestBase:194 - United States of America
+2021-06-25 07:35:39,323  INFO [main] TestBase:197 - 11
+2021-06-25 07:39:10,229  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:39:12,566  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:39:19,020  INFO [main] TestBase:83 - verifying Get All Select Country Options Of Register Page
+2021-06-25 07:39:22,646  INFO [main] TestBase:194 - 
+2021-06-25 07:39:22,646  INFO [main] TestBase:194 - Australia
+2021-06-25 07:39:22,647  INFO [main] TestBase:194 - Bangladesh
+2021-06-25 07:39:22,647  INFO [main] TestBase:194 - Denmark
+2021-06-25 07:39:22,648  INFO [main] TestBase:194 - Hong Kong
+2021-06-25 07:39:22,648  INFO [main] TestBase:194 - India
+2021-06-25 07:39:22,648  INFO [main] TestBase:194 - Japan
+2021-06-25 07:39:22,648  INFO [main] TestBase:194 - Netherlands
+2021-06-25 07:39:22,648  INFO [main] TestBase:194 - New Zealand
+2021-06-25 07:39:22,648  INFO [main] TestBase:194 - South Africa
+2021-06-25 07:39:22,648  INFO [main] TestBase:194 - United States of America
+2021-06-25 07:39:22,648  INFO [main] TestBase:198 - 11
+2021-06-25 07:39:22,648  INFO [main] TestBase:201 - 11
+2021-06-25 07:39:43,439  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:39:45,794  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:39:52,369  INFO [main] TestBase:76 - verifying Select Country option Of Register Page
+2021-06-25 07:39:55,867  INFO [main] TestBase:171 - India
+2021-06-25 07:39:55,867  INFO [main] TestBase:174 - India
+2021-06-25 07:47:39,213  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:47:41,503  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:47:47,768  INFO [main] TestBase:34 - verifying the Radio Button Of Register Page
+2021-06-25 07:47:50,948  INFO [main] TestBase:35 - ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-25 07:47:51,034  INFO [main] TestBase:38 - ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-25 07:47:51,253  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:47:52,697  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:47:59,123  INFO [main] TestBase:41 - verifying the Single Check Box Of Register Page
+2021-06-25 07:48:02,515  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:48:03,979  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:48:10,396  INFO [main] TestBase:48 - verifying the Multiple Check Box Of Register Page
+2021-06-25 07:48:19,088  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:48:20,535  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:48:27,136  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-25 07:48:33,675  INFO [main] TestBase:80 - India
+2021-06-25 07:48:33,675  INFO [main] TestBase:83 - India
+2021-06-25 07:48:33,682  INFO [main] TestBase:86 - false
+2021-06-25 07:48:33,713  INFO [main] TestBase:89 - false
+2021-06-25 07:48:33,911  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:48:35,425  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:48:41,522  INFO [main] TestBase:62 - verifying Languages option Of Register Page
+2021-06-25 07:48:47,951  INFO [main] TestBase:117 - [Hindi, English]
+2021-06-25 07:48:47,951  INFO [main] TestBase:122 - [Hindi, English]
+2021-06-25 07:48:48,175  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:48:49,577  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:48:58,174  INFO [main] TestBase:69 - verifying Languages option Of Register Page
+2021-06-25 07:48:58,520  INFO [main] TestBase:145 - 
+2021-06-25 07:48:58,776  INFO [main] TestBase:145 - 
+2021-06-25 07:48:59,040  INFO [main] TestBase:145 - 
+2021-06-25 07:48:59,287  INFO [main] TestBase:145 - 
+2021-06-25 07:48:59,533  INFO [main] TestBase:145 - 
+2021-06-25 07:48:59,776  INFO [main] TestBase:145 - 
+2021-06-25 07:49:00,023  INFO [main] TestBase:145 - 
+2021-06-25 07:49:00,267  INFO [main] TestBase:145 - 
+2021-06-25 07:49:00,506  INFO [main] TestBase:145 - 
+2021-06-25 07:49:00,747  INFO [main] TestBase:145 - 
+2021-06-25 07:49:00,983  INFO [main] TestBase:145 - 
+2021-06-25 07:49:01,223  INFO [main] TestBase:145 - 
+2021-06-25 07:49:01,463  INFO [main] TestBase:145 - 
+2021-06-25 07:49:01,694  INFO [main] TestBase:145 - 
+2021-06-25 07:49:01,932  INFO [main] TestBase:145 - 
+2021-06-25 07:49:02,168  INFO [main] TestBase:145 - 
+2021-06-25 07:49:02,398  INFO [main] TestBase:145 - 
+2021-06-25 07:49:02,634  INFO [main] TestBase:145 - 
+2021-06-25 07:49:02,872  INFO [main] TestBase:145 - 
+2021-06-25 07:49:03,107  INFO [main] TestBase:145 - 
+2021-06-25 07:49:03,348  INFO [main] TestBase:145 - 
+2021-06-25 07:49:03,588  INFO [main] TestBase:145 - 
+2021-06-25 07:49:03,830  INFO [main] TestBase:145 - 
+2021-06-25 07:49:04,077  INFO [main] TestBase:145 - 
+2021-06-25 07:49:04,307  INFO [main] TestBase:145 - 
+2021-06-25 07:49:04,540  INFO [main] TestBase:145 - 
+2021-06-25 07:49:04,773  INFO [main] TestBase:145 - 
+2021-06-25 07:49:05,019  INFO [main] TestBase:145 - 
+2021-06-25 07:49:05,249  INFO [main] TestBase:145 - 
+2021-06-25 07:49:05,484  INFO [main] TestBase:145 - 
+2021-06-25 07:49:05,718  INFO [main] TestBase:145 - 
+2021-06-25 07:49:05,950  INFO [main] TestBase:145 - 
+2021-06-25 07:49:06,189  INFO [main] TestBase:145 - 
+2021-06-25 07:49:06,428  INFO [main] TestBase:145 - 
+2021-06-25 07:49:06,664  INFO [main] TestBase:145 - 
+2021-06-25 07:49:06,905  INFO [main] TestBase:145 - 
+2021-06-25 07:49:07,143  INFO [main] TestBase:145 - 
+2021-06-25 07:49:07,375  INFO [main] TestBase:145 - 
+2021-06-25 07:49:07,611  INFO [main] TestBase:145 - 
+2021-06-25 07:49:07,849  INFO [main] TestBase:145 - 
+2021-06-25 07:49:08,080  INFO [main] TestBase:145 - 
+2021-06-25 07:49:08,300  INFO [main] TestBase:150 - Total no of actual Languages = 41
+2021-06-25 07:49:08,495  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:49:09,916  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:49:15,211  INFO [main] TestBase:76 - verifying Select Country option Of Register Page
+2021-06-25 07:49:18,489  INFO [main] TestBase:171 - India
+2021-06-25 07:49:18,494  INFO [main] TestBase:174 - India
+2021-06-25 07:49:18,692  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:49:20,150  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:49:26,650  INFO [main] TestBase:83 - verifying Get All Select Country Options Of Register Page
+2021-06-25 07:49:29,965  INFO [main] TestBase:194 - 
+2021-06-25 07:49:29,965  INFO [main] TestBase:194 - Australia
+2021-06-25 07:49:29,966  INFO [main] TestBase:194 - Bangladesh
+2021-06-25 07:49:29,966  INFO [main] TestBase:194 - Denmark
+2021-06-25 07:49:29,966  INFO [main] TestBase:194 - Hong Kong
+2021-06-25 07:49:29,967  INFO [main] TestBase:194 - India
+2021-06-25 07:49:29,967  INFO [main] TestBase:194 - Japan
+2021-06-25 07:49:29,968  INFO [main] TestBase:194 - Netherlands
+2021-06-25 07:49:29,968  INFO [main] TestBase:194 - New Zealand
+2021-06-25 07:49:29,968  INFO [main] TestBase:194 - South Africa
+2021-06-25 07:49:29,968  INFO [main] TestBase:194 - United States of America
+2021-06-25 07:49:29,968  INFO [main] TestBase:198 - 11
+2021-06-25 07:49:29,968  INFO [main] TestBase:201 - 11
+2021-06-25 07:50:17,410  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 07:50:19,631  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 07:50:25,602  INFO [main] TestBase:69 - verifying Languages option Of Register Page
+2021-06-25 07:50:25,987  INFO [main] TestBase:145 - Arabic
+2021-06-25 07:50:26,252  INFO [main] TestBase:145 - Bulgarian
+2021-06-25 07:50:26,533  INFO [main] TestBase:145 - Catalan
+2021-06-25 07:50:26,770  INFO [main] TestBase:145 - Croatian
+2021-06-25 07:50:27,002  INFO [main] TestBase:145 - Czech
+2021-06-25 07:50:27,235  INFO [main] TestBase:145 - Danish
+2021-06-25 07:50:27,471  INFO [main] TestBase:145 - Dutch
+2021-06-25 07:50:27,719  INFO [main] TestBase:145 - English
+2021-06-25 07:50:27,961  INFO [main] TestBase:145 - Estonian
+2021-06-25 07:50:28,215  INFO [main] TestBase:145 - Filipino
+2021-06-25 07:50:28,451  INFO [main] TestBase:145 - Finnish
+2021-06-25 07:50:28,684  INFO [main] TestBase:145 - French
+2021-06-25 07:50:28,931  INFO [main] TestBase:145 - German
+2021-06-25 07:50:29,174  INFO [main] TestBase:145 - Greek
+2021-06-25 07:50:29,419  INFO [main] TestBase:145 - Hebrew
+2021-06-25 07:50:29,657  INFO [main] TestBase:145 - Hindi
+2021-06-25 07:50:29,898  INFO [main] TestBase:145 - Hungarian
+2021-06-25 07:50:30,145  INFO [main] TestBase:145 - Icelandic
+2021-06-25 07:50:30,384  INFO [main] TestBase:145 - Indonesian
+2021-06-25 07:50:30,621  INFO [main] TestBase:145 - Italian
+2021-06-25 07:50:30,870  INFO [main] TestBase:145 - Japanese
+2021-06-25 07:50:31,107  INFO [main] TestBase:145 - Korean
+2021-06-25 07:50:31,359  INFO [main] TestBase:145 - Latvian
+2021-06-25 07:50:31,602  INFO [main] TestBase:145 - Lithuanian
+2021-06-25 07:50:31,844  INFO [main] TestBase:145 - Malay
+2021-06-25 07:50:32,090  INFO [main] TestBase:145 - Norwegian
+2021-06-25 07:50:32,335  INFO [main] TestBase:145 - Persian
+2021-06-25 07:50:32,586  INFO [main] TestBase:145 - Polish
+2021-06-25 07:50:32,822  INFO [main] TestBase:145 - Portuguese
+2021-06-25 07:50:33,055  INFO [main] TestBase:145 - Romanian
+2021-06-25 07:50:33,292  INFO [main] TestBase:145 - Russian
+2021-06-25 07:50:33,535  INFO [main] TestBase:145 - Serbian
+2021-06-25 07:50:33,774  INFO [main] TestBase:145 - Slovak
+2021-06-25 07:50:34,024  INFO [main] TestBase:145 - Slovenian
+2021-06-25 07:50:34,258  INFO [main] TestBase:145 - Spanish
+2021-06-25 07:50:34,503  INFO [main] TestBase:145 - Swedish
+2021-06-25 07:50:34,739  INFO [main] TestBase:145 - Thai
+2021-06-25 07:50:34,984  INFO [main] TestBase:145 - Turkish
+2021-06-25 07:50:35,226  INFO [main] TestBase:145 - Ukrainian
+2021-06-25 07:50:35,466  INFO [main] TestBase:145 - Urdu
+2021-06-25 07:50:35,712  INFO [main] TestBase:145 - Vietnamese
+2021-06-25 07:50:35,922  INFO [main] TestBase:150 - Total no of actual Languages = 41
+2021-06-25 08:18:13,303  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 08:18:15,857  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 08:18:24,078  INFO [main] TestBase:90 - verifying Country Option Of Register Page
+2021-06-25 08:18:27,406  INFO [main] TestBase:220 - form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-25 08:18:27,406  INFO [main] TestBase:223 - form-control ng-dirty ng-valid-parse ng-touched ng-valid ng-valid-required
+2021-06-25 08:19:47,145  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 08:19:49,491  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 08:19:57,376  INFO [main] TestBase:90 - verifying Country Option Of Register Page
+2021-06-25 08:20:02,714  INFO [main] TestBase:220 - form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-25 08:20:02,714  INFO [main] TestBase:223 - form-control ng-dirty ng-valid-parse ng-touched ng-valid ng-valid-required
+2021-06-25 08:21:10,784  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 08:21:13,012  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 08:21:20,547  INFO [main] TestBase:90 - verifying Country Option Of Register Page
+2021-06-25 08:21:20,614  INFO [main] TestBase:217 - form-control ng-pristine ng-untouched ng-invalid ng-invalid-required
+2021-06-25 08:21:28,901  INFO [main] TestBase:224 - form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-25 08:21:28,901  INFO [main] TestBase:227 - form-control ng-dirty ng-valid-parse ng-touched ng-valid ng-valid-required
+2021-06-25 08:22:57,810  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 08:23:00,130  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 08:23:06,899  INFO [main] TestBase:90 - verifying Country Option Of Register Page
+2021-06-25 08:23:06,971  INFO [main] TestBase:217 - form-control ng-pristine ng-untouched ng-invalid ng-invalid-required
+2021-06-25 08:23:15,243  INFO [main] TestBase:224 - form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-25 08:23:15,243  INFO [main] TestBase:227 - form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required
+2021-06-25 08:25:36,770  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 08:25:39,053  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 08:25:45,919  INFO [main] TestBase:55 - verifying Select Country option Of Register Page
+2021-06-25 08:25:45,998  INFO [main] TestBase:72 - false
+2021-06-25 08:25:52,570  INFO [main] TestBase:83 - India
+2021-06-25 08:25:52,570  INFO [main] TestBase:86 - India
+2021-06-25 08:25:52,573  INFO [main] TestBase:89 - false
+2021-06-25 08:25:52,633  INFO [main] TestBase:92 - false
+2021-06-25 08:30:58,075  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 08:31:00,388  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 08:31:08,035  INFO [main] TestBase:97 - verifying get All Country Options Of Register Page
+2021-06-25 08:31:15,287  INFO [main] TestBase:241 - Select Country
+2021-06-25 08:31:15,287  INFO [main] TestBase:241 - Afghanistan
+2021-06-25 08:31:15,288  INFO [main] TestBase:241 - Åland Islands
+2021-06-25 08:31:15,288  INFO [main] TestBase:241 - Albania
+2021-06-25 08:31:15,289  INFO [main] TestBase:241 - Algeria
+2021-06-25 08:31:15,289  INFO [main] TestBase:241 - American Samoa
+2021-06-25 08:31:15,289  INFO [main] TestBase:241 - Andorra
+2021-06-25 08:31:15,289  INFO [main] TestBase:241 - Angola
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Anguilla
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Antarctica
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Antigua and Barbuda
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Argentina
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Armenia
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Aruba
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Australia
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Austria
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Azerbaijan
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - The Bahamas
+2021-06-25 08:31:15,290  INFO [main] TestBase:241 - Bahrain
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Bangladesh
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Barbados
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Belarus
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Belgium
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Belize
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Benin
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Bermuda
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Bhutan
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Bolivia
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Bonaire
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Bosnia and Herzegovina
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Botswana
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Bouvet Island
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Brazil
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - British Indian Ocean Territory
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - United States Minor Outlying Islands
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Virgin Islands (British)
+2021-06-25 08:31:15,295  INFO [main] TestBase:241 - Virgin Islands (U.S.)
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Brunei
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Bulgaria
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Burkina Faso
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Burundi
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Cambodia
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Cameroon
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Canada
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Cape Verde
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Cayman Islands
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Central African Republic
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Chad
+2021-06-25 08:31:15,300  INFO [main] TestBase:241 - Chile
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - China
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Christmas Island
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Cocos (Keeling) Islands
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Colombia
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Comoros
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Republic of the Congo
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Democratic Republic of the Congo
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Cook Islands
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Costa Rica
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Croatia
+2021-06-25 08:31:15,305  INFO [main] TestBase:241 - Cuba
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Curaçao
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Cyprus
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Czech Republic
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Denmark
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Djibouti
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Dominica
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Dominican Republic
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Ecuador
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Egypt
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - El Salvador
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Equatorial Guinea
+2021-06-25 08:31:15,310  INFO [main] TestBase:241 - Eritrea
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - Estonia
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - Ethiopia
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - Falkland Islands
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - Faroe Islands
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - Fiji
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - Finland
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - France
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - French Guiana
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - French Polynesia
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - French Southern and Antarctic Lands
+2021-06-25 08:31:15,315  INFO [main] TestBase:241 - Gabon
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - The Gambia
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Georgia
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Germany
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Ghana
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Gibraltar
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Greece
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Greenland
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Grenada
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Guadeloupe
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Guam
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Guatemala
+2021-06-25 08:31:15,320  INFO [main] TestBase:241 - Guernsey
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Guinea
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Guinea-Bissau
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Guyana
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Haiti
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Heard Island and McDonald Islands
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Holy See
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Honduras
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Hong Kong
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Hungary
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Iceland
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - India
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Indonesia
+2021-06-25 08:31:15,325  INFO [main] TestBase:241 - Ivory Coast
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Iran
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Iraq
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Republic of Ireland
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Isle of Man
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Israel
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Italy
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Jamaica
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Japan
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Jersey
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Jordan
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Kazakhstan
+2021-06-25 08:31:15,330  INFO [main] TestBase:241 - Kenya
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Kiribati
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Kuwait
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Kyrgyzstan
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Laos
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Latvia
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Lebanon
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Lesotho
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Liberia
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Libya
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Liechtenstein
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Lithuania
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Luxembourg
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Macau
+2021-06-25 08:31:15,335  INFO [main] TestBase:241 - Republic of Macedonia
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Madagascar
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Malawi
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Malaysia
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Maldives
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Mali
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Malta
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Marshall Islands
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Martinique
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Mauritania
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Mauritius
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Mayotte
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Mexico
+2021-06-25 08:31:15,340  INFO [main] TestBase:241 - Federated States of Micronesia
+2021-06-25 08:31:15,345  INFO [main] TestBase:241 - Moldova
+2021-06-25 08:31:15,345  INFO [main] TestBase:241 - Monaco
+2021-06-25 08:31:15,346  INFO [main] TestBase:241 - Mongolia
+2021-06-25 08:31:15,346  INFO [main] TestBase:241 - Montenegro
+2021-06-25 08:31:15,346  INFO [main] TestBase:241 - Montserrat
+2021-06-25 08:31:15,346  INFO [main] TestBase:241 - Morocco
+2021-06-25 08:31:15,346  INFO [main] TestBase:241 - Mozambique
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Myanmar
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Namibia
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Nauru
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Nepal
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Netherlands
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - New Caledonia
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - New Zealand
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Nicaragua
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Niger
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Nigeria
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Niue
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Norfolk Island
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - North Korea
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Northern Mariana Islands
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Norway
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Oman
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Pakistan
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Palau
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Palestine
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Panama
+2021-06-25 08:31:15,347  INFO [main] TestBase:241 - Papua New Guinea
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Paraguay
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Peru
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Philippines
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Pitcairn Islands
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Poland
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Portugal
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Puerto Rico
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Qatar
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Republic of Kosovo
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Réunion
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Romania
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Russia
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Rwanda
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Saint Barthélemy
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Saint Helena
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Saint Kitts and Nevis
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Saint Lucia
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Saint Martin
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Saint Pierre and Miquelon
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Saint Vincent and the Grenadines
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - Samoa
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - San Marino
+2021-06-25 08:31:15,352  INFO [main] TestBase:241 - São Tomé and Príncipe
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Saudi Arabia
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Senegal
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Serbia
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Seychelles
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Sierra Leone
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Singapore
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Sint Maarten
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Slovakia
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Slovenia
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Solomon Islands
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Somalia
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - South Africa
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - South Georgia
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - South Korea
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - South Sudan
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Spain
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Sri Lanka
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Sudan
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Suriname
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Svalbard and Jan Mayen
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Swaziland
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Sweden
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Switzerland
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Syria
+2021-06-25 08:31:15,357  INFO [main] TestBase:241 - Taiwan
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Tajikistan
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Tanzania
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Thailand
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - East Timor
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Togo
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Tokelau
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Tonga
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Trinidad and Tobago
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Tunisia
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Turkey
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Turkmenistan
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Turks and Caicos Islands
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Tuvalu
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Uganda
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Ukraine
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - United Arab Emirates
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - United Kingdom
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - United States
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Uruguay
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Uzbekistan
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Vanuatu
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Venezuela
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Vietnam
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Wallis and Futuna
+2021-06-25 08:31:15,363  INFO [main] TestBase:241 - Western Sahara
+2021-06-25 08:31:15,367  INFO [main] TestBase:241 - Yemen
+2021-06-25 08:31:15,367  INFO [main] TestBase:241 - Zambia
+2021-06-25 08:31:15,367  INFO [main] TestBase:241 - Zimbabwe
+2021-06-25 08:31:15,367  INFO [main] TestBase:245 - 251
+2021-06-25 08:31:15,367  INFO [main] TestBase:248 - 11
+2021-06-25 08:31:53,863  INFO [main] TestBase:33 - Opening the browser
+2021-06-25 08:31:56,136  INFO [main] TestBase:38 - Inserting the Url
+2021-06-25 08:32:02,103  INFO [main] TestBase:97 - verifying get All Country Options Of Register Page
+2021-06-25 08:32:09,337  INFO [main] TestBase:241 - Select Country
+2021-06-25 08:32:09,337  INFO [main] TestBase:241 - Afghanistan
+2021-06-25 08:32:09,338  INFO [main] TestBase:241 - Åland Islands
+2021-06-25 08:32:09,338  INFO [main] TestBase:241 - Albania
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Algeria
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - American Samoa
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Andorra
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Angola
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Anguilla
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Antarctica
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Antigua and Barbuda
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Argentina
+2021-06-25 08:32:09,339  INFO [main] TestBase:241 - Armenia
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Aruba
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Australia
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Austria
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Azerbaijan
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - The Bahamas
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Bahrain
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Bangladesh
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Barbados
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Belarus
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Belgium
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Belize
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Benin
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Bermuda
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Bhutan
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Bolivia
+2021-06-25 08:32:09,344  INFO [main] TestBase:241 - Bonaire
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Bosnia and Herzegovina
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Botswana
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Bouvet Island
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Brazil
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - British Indian Ocean Territory
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - United States Minor Outlying Islands
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Virgin Islands (British)
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Virgin Islands (U.S.)
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Brunei
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Bulgaria
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Burkina Faso
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Burundi
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Cambodia
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Cameroon
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Canada
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Cape Verde
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Cayman Islands
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Central African Republic
+2021-06-25 08:32:09,349  INFO [main] TestBase:241 - Chad
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Chile
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - China
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Christmas Island
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Cocos (Keeling) Islands
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Colombia
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Comoros
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Republic of the Congo
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Democratic Republic of the Congo
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Cook Islands
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Costa Rica
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Croatia
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Cuba
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Curaçao
+2021-06-25 08:32:09,355  INFO [main] TestBase:241 - Cyprus
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Czech Republic
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Denmark
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Djibouti
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Dominica
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Dominican Republic
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Ecuador
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Egypt
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - El Salvador
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Equatorial Guinea
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Eritrea
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Estonia
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Ethiopia
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Falkland Islands
+2021-06-25 08:32:09,360  INFO [main] TestBase:241 - Faroe Islands
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Fiji
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Finland
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - France
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - French Guiana
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - French Polynesia
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - French Southern and Antarctic Lands
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Gabon
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - The Gambia
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Georgia
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Germany
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Ghana
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Gibraltar
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Greece
+2021-06-25 08:32:09,365  INFO [main] TestBase:241 - Greenland
+2021-06-25 08:32:09,370  INFO [main] TestBase:241 - Grenada
+2021-06-25 08:32:09,370  INFO [main] TestBase:241 - Guadeloupe
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Guam
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Guatemala
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Guernsey
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Guinea
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Guinea-Bissau
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Guyana
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Haiti
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Heard Island and McDonald Islands
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Holy See
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Honduras
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Hong Kong
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Hungary
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Iceland
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - India
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Indonesia
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Ivory Coast
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Iran
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Iraq
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Republic of Ireland
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Isle of Man
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Israel
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Italy
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Jamaica
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Japan
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Jersey
+2021-06-25 08:32:09,371  INFO [main] TestBase:241 - Jordan
+2021-06-25 08:32:09,376  INFO [main] TestBase:241 - Kazakhstan
+2021-06-25 08:32:09,376  INFO [main] TestBase:241 - Kenya
+2021-06-25 08:32:09,376  INFO [main] TestBase:241 - Kiribati
+2021-06-25 08:32:09,376  INFO [main] TestBase:241 - Kuwait
+2021-06-25 08:32:09,376  INFO [main] TestBase:241 - Kyrgyzstan
+2021-06-25 08:32:09,376  INFO [main] TestBase:241 - Laos
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Latvia
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Lebanon
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Lesotho
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Liberia
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Libya
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Liechtenstein
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Lithuania
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Luxembourg
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Macau
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Republic of Macedonia
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Madagascar
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Malawi
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Malaysia
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Maldives
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Mali
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Malta
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Marshall Islands
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Martinique
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Mauritania
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Mauritius
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Mayotte
+2021-06-25 08:32:09,378  INFO [main] TestBase:241 - Mexico
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Federated States of Micronesia
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Moldova
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Monaco
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Mongolia
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Montenegro
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Montserrat
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Morocco
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Mozambique
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Myanmar
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Namibia
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Nauru
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Nepal
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Netherlands
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - New Caledonia
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - New Zealand
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Nicaragua
+2021-06-25 08:32:09,383  INFO [main] TestBase:241 - Niger
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Nigeria
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Niue
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Norfolk Island
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - North Korea
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Northern Mariana Islands
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Norway
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Oman
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Pakistan
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Palau
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Palestine
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Panama
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Papua New Guinea
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Paraguay
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Peru
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Philippines
+2021-06-25 08:32:09,388  INFO [main] TestBase:241 - Pitcairn Islands
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Poland
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Portugal
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Puerto Rico
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Qatar
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Republic of Kosovo
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Réunion
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Romania
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Russia
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Rwanda
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Saint Barthélemy
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Saint Helena
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Saint Kitts and Nevis
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Saint Lucia
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Saint Martin
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Saint Pierre and Miquelon
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Saint Vincent and the Grenadines
+2021-06-25 08:32:09,393  INFO [main] TestBase:241 - Samoa
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - San Marino
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - São Tomé and Príncipe
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Saudi Arabia
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Senegal
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Serbia
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Seychelles
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Sierra Leone
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Singapore
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Sint Maarten
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Slovakia
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Slovenia
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Solomon Islands
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - Somalia
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - South Africa
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - South Georgia
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - South Korea
+2021-06-25 08:32:09,398  INFO [main] TestBase:241 - South Sudan
+2021-06-25 08:32:09,403  INFO [main] TestBase:241 - Spain
+2021-06-25 08:32:09,403  INFO [main] TestBase:241 - Sri Lanka
+2021-06-25 08:32:09,403  INFO [main] TestBase:241 - Sudan
+2021-06-25 08:32:09,403  INFO [main] TestBase:241 - Suriname
+2021-06-25 08:32:09,403  INFO [main] TestBase:241 - Svalbard and Jan Mayen
+2021-06-25 08:32:09,403  INFO [main] TestBase:241 - Swaziland
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Sweden
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Switzerland
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Syria
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Taiwan
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Tajikistan
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Tanzania
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Thailand
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - East Timor
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Togo
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Tokelau
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Tonga
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Trinidad and Tobago
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Tunisia
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Turkey
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Turkmenistan
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Turks and Caicos Islands
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Tuvalu
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Uganda
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Ukraine
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - United Arab Emirates
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - United Kingdom
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - United States
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Uruguay
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Uzbekistan
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Vanuatu
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Venezuela
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Vietnam
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Wallis and Futuna
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Western Sahara
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Yemen
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Zambia
+2021-06-25 08:32:09,404  INFO [main] TestBase:241 - Zimbabwe
+2021-06-25 08:32:09,409  INFO [main] TestBase:245 - 251
+2021-06-25 08:32:09,409  INFO [main] TestBase:248 - 251
